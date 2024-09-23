@@ -1,0 +1,1010 @@
+{
+  "config": {
+    "configFile": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/playwright.config.js",
+    "rootDir": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests",
+    "forbidOnly": true,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "html",
+        {
+          "outputFolder": "playwright-report"
+        }
+      ],
+      [
+        "json",
+        {
+          "outputFile": "playwright-report/test-results.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 15000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {},
+        "id": "chromium",
+        "name": "chromium",
+        "testDir": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 180000
+      }
+    ],
+    "shard": null,
+    "updateSnapshots": "missing",
+    "version": "1.44.1",
+    "workers": 2,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "traQRTest.spec.js",
+      "file": "traQRTest.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "Checking for the Frontend and Backend version of the traQR application",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [
+                {
+                  "type": "Type",
+                  "description": "Frontend"
+                },
+                {
+                  "type": "Branch",
+                  "description": "https://github.com/weberon/traqr/tree/Gold"
+                },
+                {
+                  "type": "Commit",
+                  "description": "https://github.com/weberon/traqr/tree/428d997"
+                },
+                {
+                  "type": "Timestamp",
+                  "description": "2024-09-17T12:43:22"
+                },
+                {
+                  "type": "Type",
+                  "description": "Backend"
+                },
+                {
+                  "type": "Environment",
+                  "description": "developer16"
+                },
+                {
+                  "type": "Host",
+                  "description": "developer16-linqr.reachpersona.com"
+                },
+                {
+                  "type": "Latest commit",
+                  "description": "https://github.com/weberon/trackable-mailer/tree/3726a93"
+                },
+                {
+                  "type": "Branch",
+                  "description": "https://github.com/weberon/trackable-mailer/tree/Gold"
+                },
+                {
+                  "type": "Timestamp",
+                  "description": "2024-09-14T12:52:01"
+                }
+              ],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 6979,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing Test - Checking for the Frontend and Backend version of the traQR application\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:12:06.194Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-ea1b9fac05218f965c7a",
+          "file": "traQRTest.spec.js",
+          "line": 76,
+          "column": 5
+        },
+        {
+          "title": "Creating a campaign with unique campaign name and checking for success message",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 10228,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing test - Creating a campaign with unique campaign name and checking for success message\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:12:13.409Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-6162ad306b80a2602324",
+          "file": "traQRTest.spec.js",
+          "line": 154,
+          "column": 5
+        },
+        {
+          "title": "Creating a campaign with duplicate campaign name and checking for error message",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 10916,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing test - Creating a campaign with duplicate campaign name and checking for error message\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:12:23.647Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-105b22d1bed0172bca43",
+          "file": "traQRTest.spec.js",
+          "line": 176,
+          "column": 5
+        },
+        {
+          "title": "Checking if clicking on the navlist Create Campaign redirects to the specified URL",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 5032,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing test - Checking if clicking on the navlist Create Campaign redirects to the specified URL\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:12:34.571Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-56bb2945dea008cbc41c",
+          "file": "traQRTest.spec.js",
+          "line": 197,
+          "column": 7
+        },
+        {
+          "title": "Checking if clicking on the navlist Upload Contacts redirects to the specified URL",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 4891,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing test - Checking if clicking on the navlist Upload Contacts redirects to the specified URL\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:12:39.621Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-1914cf4cb050b9d85416",
+          "file": "traQRTest.spec.js",
+          "line": 197,
+          "column": 7
+        },
+        {
+          "title": "Checking if clicking on the navlist Campaign Dashboard redirects to the specified URL",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 5129,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing test - Checking if clicking on the navlist Campaign Dashboard redirects to the specified URL\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:12:44.518Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-b78d618a15bc5197aa84",
+          "file": "traQRTest.spec.js",
+          "line": 197,
+          "column": 7
+        },
+        {
+          "title": "Checking if the \"campaigns\" table is present for already existing campaigns",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 5980,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing test - Checking if the 'campaigns' table is present for already existing campaigns\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:12:49.652Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-0847ba4ab41217fcd817",
+          "file": "traQRTest.spec.js",
+          "line": 219,
+          "column": 5
+        },
+        {
+          "title": "Selecting the campaign from the table and uploading CSV file without mandatory field: envelope_name and verifying the error message",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 11338,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing Test - Selecting the campaign from the table and uploading CSV file without mandatory field: envelope_name and verifying the error message\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:13:20.249Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-fa1fd7d7181691d684a8",
+          "file": "traQRTest.spec.js",
+          "line": 292,
+          "column": 7
+        },
+        {
+          "title": "Selecting the campaign from the table and uploading CSV file without mandatory field: greeting_name and verifying the error message",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 11821,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing Test - Selecting the campaign from the table and uploading CSV file without mandatory field: greeting_name and verifying the error message\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:13:31.594Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-40e23a5093bd32013266",
+          "file": "traQRTest.spec.js",
+          "line": 292,
+          "column": 7
+        },
+        {
+          "title": "Selecting the campaign from the table and uploading CSV file without mandatory field: ma-addr_line1 and verifying the error message",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 12545,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing Test - Selecting the campaign from the table and uploading CSV file without mandatory field: ma-addr_line1 and verifying the error message\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:13:43.420Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-f68d516e71294bb93be7",
+          "file": "traQRTest.spec.js",
+          "line": 292,
+          "column": 7
+        },
+        {
+          "title": "Selecting the campaign from the table and uploading CSV file without mandatory field: ma-city and verifying the error message",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 11229,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing Test - Selecting the campaign from the table and uploading CSV file without mandatory field: ma-city and verifying the error message\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:13:55.971Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-5c5d1a887dab0f644cdd",
+          "file": "traQRTest.spec.js",
+          "line": 292,
+          "column": 7
+        },
+        {
+          "title": "Selecting the campaign from the table and uploading CSV file without mandatory field: ma-state and verifying the error message",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 11965,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing Test - Selecting the campaign from the table and uploading CSV file without mandatory field: ma-state and verifying the error message\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:14:07.205Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-7cbd40f8b4539a6b941c",
+          "file": "traQRTest.spec.js",
+          "line": 292,
+          "column": 7
+        },
+        {
+          "title": "Selecting the campaign from the table and uploading CSV file without mandatory field: ma-zip and verifying the error message",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 12235,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing Test - Selecting the campaign from the table and uploading CSV file without mandatory field: ma-zip and verifying the error message\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:14:19.178Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-0553ff4fd2972532c3de",
+          "file": "traQRTest.spec.js",
+          "line": 292,
+          "column": 7
+        },
+        {
+          "title": "Selecting the campaign from the table and clicking on submit button without uploading the csv file to verify the warning message",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 12143,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing test - Selecting the campaign from the dropdown and clicking on submit button without uploading the csv file to verify the warning message\n"
+                    },
+                    {
+                      "text": "Please make sure you have selected a file to upload\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:14:31.419Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-244c18b1ecd24be3e8cb",
+          "file": "traQRTest.spec.js",
+          "line": 319,
+          "column": 5
+        },
+        {
+          "title": "Generating a network request waterfall file",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 180000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 4070,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "Executing test - Generating a network request waterfall file\n"
+                    },
+                    {
+                      "text": "Test passed\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-09-23T07:15:54.676Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "bc1a1793634cd5c9baa5-8a9116ae47936454c643",
+          "file": "traQRTest.spec.js",
+          "line": 487,
+          "column": 5
+        }
+      ],
+      "suites": [
+        {
+          "title": "Selecting campaign from table and uploading CSV with all mandatory fields to verify the responded message and download the CSV",
+          "file": "traQRTest.spec.js",
+          "line": 238,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Selecting campaign from table and uploading Csv with all mandatory fields to verify the responded message",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 180000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 11964,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Executing test - Selecting campaign from dropdown and uploading Csv with all mandatory fields to verify the responded message\n"
+                        },
+                        {
+                          "text": "Test passed\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2024-09-23T07:12:55.639Z",
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "bc1a1793634cd5c9baa5-7a7b6cf1dd6523a03ee6",
+              "file": "traQRTest.spec.js",
+              "line": 253,
+              "column": 7
+            },
+            {
+              "title": "Checking for clickAndDownloadFileAndQrCodes button and downloading the CSV and QR codes response file and verifying the file has downloaded successfully",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 180000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 12632,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Executing test - Checking for clickAndDownloadFileAndQrCodes button and downloading the CSV and QR codes response file and verifying the file has downloaded successfully\n"
+                        },
+                        {
+                          "text": "Test passed\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2024-09-23T07:13:07.611Z",
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "bc1a1793634cd5c9baa5-ec32a1e3016aa4c10ad7",
+              "file": "traQRTest.spec.js",
+              "line": 270,
+              "column": 7
+            }
+          ]
+        },
+        {
+          "title": "Campaign Dashboard Tests for campaigns which have no responses",
+          "file": "traQRTest.spec.js",
+          "line": 343,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Visiting campaign dashboard and clicking on campaign and verifying the Responded Contacts table and Campaign Details table headers are present",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 180000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 8518,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Executing test - Visiting campaign dashboard and clicking on campaign and verifying the Responded Contacts table and Campaign Details table headers are present\n"
+                        },
+                        {
+                          "text": "Test passed\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2024-09-23T07:14:43.566Z",
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "bc1a1793634cd5c9baa5-f82e56d30d69f58b0763",
+              "file": "traQRTest.spec.js",
+              "line": 355,
+              "column": 7
+            },
+            {
+              "title": "Visiting campaign dashboard and clicking on campaign which has no responses and verifying the message",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 180000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 9777,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Executing test - Visiting campaign dashboard and clicking on campaign which has no responses and verifying the message\n"
+                        },
+                        {
+                          "text": "Test passed\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2024-09-23T07:14:52.091Z",
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "bc1a1793634cd5c9baa5-d316857f0e23fdcae50d",
+              "file": "traQRTest.spec.js",
+              "line": 373,
+              "column": 7
+            }
+          ]
+        },
+        {
+          "title": "Campaign Dashboard Tests for campaigns which have responses",
+          "file": "traQRTest.spec.js",
+          "line": 388,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Clicking the responded QR code Id and verifying the same exists in the Visit Details table",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 180000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 16551,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Executing test - Clicking the responded QR code Id and verifying the same exists in the Visit Details table\n"
+                        },
+                        {
+                          "text": "Test passed\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2024-09-23T07:15:01.873Z",
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "bc1a1793634cd5c9baa5-86fbc37eb93964928538",
+              "file": "traQRTest.spec.js",
+              "line": 413,
+              "column": 7
+            },
+            {
+              "title": "Clicking the responded QR code Id and verifying all tables are visible on screen by checking the table names",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 180000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 18324,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Executing test - Clicking the responded QR code Id and verifying all tables are visible on screen by checking the table names\n"
+                        },
+                        {
+                          "text": "Test passed\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2024-09-23T07:15:18.430Z",
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "bc1a1793634cd5c9baa5-dcb50abf67abdd49a4d9",
+              "file": "traQRTest.spec.js",
+              "line": 429,
+              "column": 7
+            }
+          ]
+        },
+        {
+          "title": "Campaign Dashboard Tests for responses for different urls from the same end user browser",
+          "file": "traQRTest.spec.js",
+          "line": 461,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Clicking the responded campaign and click on the contact visit to verify the responses for different urls from the same browser",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 180000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 17911,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Test passed\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2024-09-23T07:15:36.761Z",
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "bc1a1793634cd5c9baa5-18fe0f8f27c0ee7f20be",
+              "file": "traQRTest.spec.js",
+              "line": 462,
+              "column": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2024-09-23T07:12:05.143Z",
+    "duration": 233737.53,
+    "expected": 22,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}
