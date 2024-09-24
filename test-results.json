@@ -118,7 +118,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 10439,
+                  "duration": 10965,
                   "errors": [],
                   "stdout": [
                     {
@@ -130,7 +130,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:44:24.905Z",
+                  "startTime": "2024-09-24T09:29:52.444Z",
                   "attachments": []
                 }
               ],
@@ -157,7 +157,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 12678,
+                  "duration": 14400,
                   "errors": [],
                   "stdout": [
                     {
@@ -169,7 +169,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:44:35.908Z",
+                  "startTime": "2024-09-24T09:30:03.620Z",
                   "attachments": []
                 }
               ],
@@ -196,7 +196,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 15841,
+                  "duration": 11368,
                   "errors": [],
                   "stdout": [
                     {
@@ -208,7 +208,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:44:48.594Z",
+                  "startTime": "2024-09-24T09:30:18.026Z",
                   "attachments": []
                 }
               ],
@@ -235,7 +235,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 6783,
+                  "duration": 6025,
                   "errors": [],
                   "stdout": [
                     {
@@ -247,7 +247,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:45:04.443Z",
+                  "startTime": "2024-09-24T09:30:29.398Z",
                   "attachments": []
                 }
               ],
@@ -274,7 +274,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 8238,
+                  "duration": 4987,
                   "errors": [],
                   "stdout": [
                     {
@@ -286,7 +286,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:45:11.239Z",
+                  "startTime": "2024-09-24T09:30:35.429Z",
                   "attachments": []
                 }
               ],
@@ -313,7 +313,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 6829,
+                  "duration": 5157,
                   "errors": [],
                   "stdout": [
                     {
@@ -325,7 +325,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:45:19.484Z",
+                  "startTime": "2024-09-24T09:30:40.423Z",
                   "attachments": []
                 }
               ],
@@ -352,7 +352,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 9303,
+                  "duration": 5871,
                   "errors": [],
                   "stdout": [
                     {
@@ -364,7 +364,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:45:26.318Z",
+                  "startTime": "2024-09-24T09:30:45.584Z",
                   "attachments": []
                 }
               ],
@@ -391,7 +391,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 15118,
+                  "duration": 10773,
                   "errors": [],
                   "stdout": [
                     {
@@ -403,7 +403,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:46:12.003Z",
+                  "startTime": "2024-09-24T09:31:18.615Z",
                   "attachments": []
                 }
               ],
@@ -430,7 +430,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 18051,
+                  "duration": 12412,
                   "errors": [],
                   "stdout": [
                     {
@@ -442,7 +442,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:46:27.130Z",
+                  "startTime": "2024-09-24T09:31:29.393Z",
                   "attachments": []
                 }
               ],
@@ -469,7 +469,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 14361,
+                  "duration": 12327,
                   "errors": [],
                   "stdout": [
                     {
@@ -481,7 +481,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:46:45.186Z",
+                  "startTime": "2024-09-24T09:31:41.813Z",
                   "attachments": []
                 }
               ],
@@ -508,7 +508,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 18395,
+                  "duration": 12064,
                   "errors": [],
                   "stdout": [
                     {
@@ -520,7 +520,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:46:59.554Z",
+                  "startTime": "2024-09-24T09:31:54.148Z",
                   "attachments": []
                 }
               ],
@@ -547,7 +547,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 14589,
+                  "duration": 12023,
                   "errors": [],
                   "stdout": [
                     {
@@ -559,7 +559,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:47:17.954Z",
+                  "startTime": "2024-09-24T09:32:06.216Z",
                   "attachments": []
                 }
               ],
@@ -586,7 +586,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 17724,
+                  "duration": 12683,
                   "errors": [],
                   "stdout": [
                     {
@@ -598,7 +598,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:47:32.550Z",
+                  "startTime": "2024-09-24T09:32:18.251Z",
                   "attachments": []
                 }
               ],
@@ -625,7 +625,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 12503,
+                  "duration": 10782,
                   "errors": [],
                   "stdout": [
                     {
@@ -640,7 +640,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:47:50.280Z",
+                  "startTime": "2024-09-24T09:32:30.941Z",
                   "attachments": []
                 }
               ],
@@ -654,7 +654,7 @@
         },
         {
           "title": "Generating a network request waterfall file",
-          "ok": false,
+          "ok": true,
           "tags": [],
           "tests": [
             {
@@ -665,52 +665,25 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
-                  "status": "failed",
-                  "duration": 424,
-                  "error": {
-                    "message": "TypeError: Cannot read properties of undefined (reading 'firstUser')",
-                    "stack": "TypeError: Cannot read properties of undefined (reading 'firstUser')\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:495:44",
-                    "location": {
-                      "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js",
-                      "column": 44,
-                      "line": 495
-                    },
-                    "snippet": "\u001b[0m \u001b[90m 493 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 494 |\u001b[39m   \u001b[36mconst\u001b[39m page \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m context\u001b[33m.\u001b[39mnewPage()\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 495 |\u001b[39m   \u001b[36mawait\u001b[39m navigateToPage(page\u001b[33m,\u001b[39m trackableUrls\u001b[33m.\u001b[39mfirstUser)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 496 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mwaitForLoadState(\u001b[32m'networkidle'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 497 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mclose()\u001b[33m;\u001b[39m\n \u001b[90m 498 |\u001b[39m   \u001b[36mawait\u001b[39m context\u001b[33m.\u001b[39mclose()\u001b[33m;\u001b[39m\u001b[0m"
-                  },
-                  "errors": [
-                    {
-                      "location": {
-                        "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js",
-                        "column": 44,
-                        "line": 495
-                      },
-                      "message": "TypeError: Cannot read properties of undefined (reading 'firstUser')\n\n\u001b[0m \u001b[90m 493 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 494 |\u001b[39m   \u001b[36mconst\u001b[39m page \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m context\u001b[33m.\u001b[39mnewPage()\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 495 |\u001b[39m   \u001b[36mawait\u001b[39m navigateToPage(page\u001b[33m,\u001b[39m trackableUrls\u001b[33m.\u001b[39mfirstUser)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 496 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mwaitForLoadState(\u001b[32m'networkidle'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 497 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mclose()\u001b[33m;\u001b[39m\n \u001b[90m 498 |\u001b[39m   \u001b[36mawait\u001b[39m context\u001b[33m.\u001b[39mclose()\u001b[33m;\u001b[39m\u001b[0m\n\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:495:44"
-                    }
-                  ],
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 4154,
+                  "errors": [],
                   "stdout": [
                     {
                       "text": "Executing test - Generating a network request waterfall file\n"
+                    },
+                    {
+                      "text": "Test passed\n"
                     }
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-24T07:57:01.771Z",
-                  "attachments": [
-                    {
-                      "name": "screenshot",
-                      "contentType": "image/png",
-                      "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Generating-a-network-request-waterfall-file-chromium/test-failed-1.png"
-                    }
-                  ],
-                  "errorLocation": {
-                    "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js",
-                    "column": 44,
-                    "line": 495
-                  }
+                  "startTime": "2024-09-24T09:33:52.320Z",
+                  "attachments": []
                 }
               ],
-              "status": "unexpected"
+              "status": "expected"
             }
           ],
           "id": "bc1a1793634cd5c9baa5-8a9116ae47936454c643",
@@ -741,7 +714,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 15819,
+                      "duration": 13871,
                       "errors": [],
                       "stdout": [
                         {
@@ -753,7 +726,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-24T07:45:35.626Z",
+                      "startTime": "2024-09-24T09:30:51.462Z",
                       "attachments": []
                     }
                   ],
@@ -780,7 +753,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 20545,
+                      "duration": 13266,
                       "errors": [],
                       "stdout": [
                         {
@@ -792,7 +765,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-24T07:45:51.451Z",
+                      "startTime": "2024-09-24T09:31:05.342Z",
                       "attachments": []
                     }
                   ],
@@ -827,7 +800,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 11662,
+                      "duration": 7722,
                       "errors": [],
                       "stdout": [
                         {
@@ -839,7 +812,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-24T07:48:02.790Z",
+                      "startTime": "2024-09-24T09:32:41.727Z",
                       "attachments": []
                     }
                   ],
@@ -866,7 +839,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 11250,
+                      "duration": 9177,
                       "errors": [],
                       "stdout": [
                         {
@@ -878,7 +851,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-24T07:48:14.459Z",
+                      "startTime": "2024-09-24T09:32:49.456Z",
                       "attachments": []
                     }
                   ],
@@ -913,7 +886,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 161200,
+                      "duration": 16860,
                       "errors": [],
                       "stdout": [
                         {
@@ -925,7 +898,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-24T07:48:25.715Z",
+                      "startTime": "2024-09-24T09:32:58.648Z",
                       "attachments": []
                     }
                   ],
@@ -952,7 +925,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 160702,
+                      "duration": 18439,
                       "errors": [],
                       "stdout": [
                         {
@@ -964,7 +937,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-24T07:51:06.925Z",
+                      "startTime": "2024-09-24T09:33:15.519Z",
                       "attachments": []
                     }
                   ],
@@ -986,7 +959,7 @@
           "specs": [
             {
               "title": "Clicking the responded campaign and click on the contact visit to verify the responses for different urls from the same browser",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -998,39 +971,21 @@
                   "results": [
                     {
                       "workerIndex": 0,
-                      "status": "timedOut",
-                      "duration": 193089,
-                      "error": {
-                        "message": "\u001b[31mTest timeout of 180000ms exceeded.\u001b[39m",
-                        "stack": "\u001b[31mTest timeout of 180000ms exceeded.\u001b[39m"
-                      },
-                      "errors": [
+                      "status": "passed",
+                      "duration": 18350,
+                      "errors": [],
+                      "stdout": [
                         {
-                          "message": "\u001b[31mTest timeout of 180000ms exceeded.\u001b[39m"
-                        },
-                        {
-                          "location": {
-                            "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js",
-                            "column": 14,
-                            "line": 268
-                          },
-                          "message": "Error: page.goto: Test timeout of 180000ms exceeded.\nCall log:\n  \u001b[2m- navigating to \"https://developer16.prsnl.ink/n7VPGjRz?verify=1758699968-Sl4bKrj5oWBYG1jSBLWKbyjeSgTbGbD%2BDamFaYftWRQ%3D\", waiting until \"load\"\u001b[22m\n\n\n   at ../modules/crawlerUtility.js:268\n\n\u001b[0m \u001b[90m 266 |\u001b[39m\n \u001b[90m 267 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m navigateToPage \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page\u001b[33m,\u001b[39m url) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 268 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoto(url)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 269 |\u001b[39m }\u001b[33m;\u001b[39m\n \u001b[90m 270 |\u001b[39m\n \u001b[90m 271 |\u001b[39m \u001b[36mconst\u001b[39m clickCampaignDashboardLink \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page) \u001b[33m=>\u001b[39m {\u001b[0m\n\n    at navigateToPage (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:268:14)\n    at visitTrackableUrl (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:291:9)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:475:28"
+                          "text": "Test passed\n"
                         }
                       ],
-                      "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-24T07:53:47.634Z",
-                      "attachments": [
-                        {
-                          "name": "video",
-                          "contentType": "video/webm",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Campaign-Dashboa-b12e4--urls-from-the-same-browser-chromium/video.webm"
-                        }
-                      ]
+                      "startTime": "2024-09-24T09:33:33.965Z",
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "bc1a1793634cd5c9baa5-18fe0f8f27c0ee7f20be",
@@ -1045,11 +1000,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-09-24T07:44:23.606Z",
-    "duration": 758703.064,
-    "expected": 20,
+    "startTime": "2024-09-24T09:29:51.407Z",
+    "duration": 245182.09999999998,
+    "expected": 22,
     "skipped": 0,
-    "unexpected": 2,
+    "unexpected": 0,
     "flaky": 0
   }
 }
