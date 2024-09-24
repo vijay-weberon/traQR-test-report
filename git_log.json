@@ -1,5 +1,5 @@
 {
-      "jenkins_build_number": "303",
+      "jenkins_build_number": "316",
        "test_code_git_repository": "https://github.com/weberon/traqr-test",
       "test_code_commit": "1b740a181a5a4e00eb055b917a7622caa50c680d",
       "application_code_info": {"frontend": {"branch": "Gold", "commit": "428d997", "timestamp": "2024-09-17T12:43:22"}, "backend": {"environment": "developer16", "host": "developer16-linqr.reachpersona.com", "latest_commit": "3726a93", "associated_branch": "Gold", "timestamp": "2024-09-14T12:52:01"}}
