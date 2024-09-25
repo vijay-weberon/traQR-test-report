@@ -46,7 +46,7 @@
         "testMatch": [
           "**/*.@(spec|test).?(c|m)[jt]s?(x)"
         ],
-        "timeout": 180000
+        "timeout": 60000
       }
     ],
     "shard": null,
@@ -68,7 +68,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [
                 {
                   "type": "Type",
@@ -118,7 +118,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 9762,
+                  "duration": 11204,
                   "errors": [],
                   "stdout": [
                     {
@@ -130,7 +130,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:40:47.876Z",
+                  "startTime": "2024-09-25T07:59:58.296Z",
                   "attachments": []
                 }
               ],
@@ -148,7 +148,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -157,7 +157,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 14648,
+                  "duration": 15186,
                   "errors": [],
                   "stdout": [
                     {
@@ -169,7 +169,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:40:57.859Z",
+                  "startTime": "2024-09-25T08:00:09.704Z",
                   "attachments": []
                 }
               ],
@@ -187,7 +187,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -196,7 +196,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 14117,
+                  "duration": 15204,
                   "errors": [],
                   "stdout": [
                     {
@@ -208,7 +208,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:41:12.514Z",
+                  "startTime": "2024-09-25T08:00:24.896Z",
                   "attachments": []
                 }
               ],
@@ -226,7 +226,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -235,7 +235,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 7171,
+                  "duration": 6927,
                   "errors": [],
                   "stdout": [
                     {
@@ -247,7 +247,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:41:26.637Z",
+                  "startTime": "2024-09-25T08:00:40.109Z",
                   "attachments": []
                 }
               ],
@@ -265,7 +265,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -274,7 +274,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 6769,
+                  "duration": 8267,
                   "errors": [],
                   "stdout": [
                     {
@@ -286,7 +286,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:41:33.812Z",
+                  "startTime": "2024-09-25T08:00:47.048Z",
                   "attachments": []
                 }
               ],
@@ -304,7 +304,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -313,7 +313,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 8333,
+                  "duration": 6684,
                   "errors": [],
                   "stdout": [
                     {
@@ -325,7 +325,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:41:40.586Z",
+                  "startTime": "2024-09-25T08:00:55.324Z",
                   "attachments": []
                 }
               ],
@@ -343,7 +343,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -352,7 +352,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 7267,
+                  "duration": 10156,
                   "errors": [],
                   "stdout": [
                     {
@@ -364,7 +364,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:41:48.925Z",
+                  "startTime": "2024-09-25T08:01:02.014Z",
                   "attachments": []
                 }
               ],
@@ -382,7 +382,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -391,7 +391,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 16095,
+                  "duration": 13836,
                   "errors": [],
                   "stdout": [
                     {
@@ -403,7 +403,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:42:28.829Z",
+                  "startTime": "2024-09-25T08:01:47.085Z",
                   "attachments": []
                 }
               ],
@@ -421,7 +421,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -430,7 +430,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 13931,
+                  "duration": 17306,
                   "errors": [],
                   "stdout": [
                     {
@@ -442,7 +442,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:42:44.931Z",
+                  "startTime": "2024-09-25T08:02:00.927Z",
                   "attachments": []
                 }
               ],
@@ -460,7 +460,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -469,7 +469,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 16049,
+                  "duration": 14203,
                   "errors": [],
                   "stdout": [
                     {
@@ -481,7 +481,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:42:58.867Z",
+                  "startTime": "2024-09-25T08:02:18.239Z",
                   "attachments": []
                 }
               ],
@@ -499,7 +499,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -508,7 +508,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 14552,
+                  "duration": 17307,
                   "errors": [],
                   "stdout": [
                     {
@@ -520,7 +520,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:43:14.920Z",
+                  "startTime": "2024-09-25T08:02:32.447Z",
                   "attachments": []
                 }
               ],
@@ -538,7 +538,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -547,7 +547,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 18827,
+                  "duration": 14867,
                   "errors": [],
                   "stdout": [
                     {
@@ -559,7 +559,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:43:29.476Z",
+                  "startTime": "2024-09-25T08:02:49.759Z",
                   "attachments": []
                 }
               ],
@@ -577,7 +577,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -586,7 +586,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 13210,
+                  "duration": 17998,
                   "errors": [],
                   "stdout": [
                     {
@@ -598,7 +598,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:43:48.308Z",
+                  "startTime": "2024-09-25T08:03:04.633Z",
                   "attachments": []
                 }
               ],
@@ -616,7 +616,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -625,7 +625,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 12926,
+                  "duration": 12894,
                   "errors": [],
                   "stdout": [
                     {
@@ -640,7 +640,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:44:01.522Z",
+                  "startTime": "2024-09-25T08:03:22.636Z",
                   "attachments": []
                 }
               ],
@@ -658,7 +658,7 @@
           "tags": [],
           "tests": [
             {
-              "timeout": 180000,
+              "timeout": 60000,
               "annotations": [],
               "expectedStatus": "passed",
               "projectId": "chromium",
@@ -666,26 +666,15 @@
               "results": [
                 {
                   "workerIndex": 1,
-                  "status": "failed",
-                  "duration": 479,
+                  "status": "timedOut",
+                  "duration": 65004,
                   "error": {
-                    "message": "TypeError: Cannot read properties of undefined (reading 'firstUser')",
-                    "stack": "TypeError: Cannot read properties of undefined (reading 'firstUser')\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:495:44",
-                    "location": {
-                      "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js",
-                      "column": 44,
-                      "line": 495
-                    },
-                    "snippet": "\u001b[0m \u001b[90m 493 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 494 |\u001b[39m   \u001b[36mconst\u001b[39m page \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m context\u001b[33m.\u001b[39mnewPage()\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 495 |\u001b[39m   \u001b[36mawait\u001b[39m navigateToPage(page\u001b[33m,\u001b[39m trackableUrls\u001b[33m.\u001b[39mfirstUser)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 496 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mwaitForLoadState(\u001b[32m'networkidle'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 497 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mclose()\u001b[33m;\u001b[39m\n \u001b[90m 498 |\u001b[39m   \u001b[36mawait\u001b[39m context\u001b[33m.\u001b[39mclose()\u001b[33m;\u001b[39m\u001b[0m"
+                    "message": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m",
+                    "stack": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m"
                   },
                   "errors": [
                     {
-                      "location": {
-                        "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js",
-                        "column": 44,
-                        "line": 495
-                      },
-                      "message": "TypeError: Cannot read properties of undefined (reading 'firstUser')\n\n\u001b[0m \u001b[90m 493 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 494 |\u001b[39m   \u001b[36mconst\u001b[39m page \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m context\u001b[33m.\u001b[39mnewPage()\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 495 |\u001b[39m   \u001b[36mawait\u001b[39m navigateToPage(page\u001b[33m,\u001b[39m trackableUrls\u001b[33m.\u001b[39mfirstUser)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 496 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mwaitForLoadState(\u001b[32m'networkidle'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 497 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mclose()\u001b[33m;\u001b[39m\n \u001b[90m 498 |\u001b[39m   \u001b[36mawait\u001b[39m context\u001b[33m.\u001b[39mclose()\u001b[33m;\u001b[39m\u001b[0m\n\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:495:44"
+                      "message": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m"
                     }
                   ],
                   "stdout": [
@@ -695,19 +684,8 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T07:48:35.527Z",
-                  "attachments": [
-                    {
-                      "name": "screenshot",
-                      "contentType": "image/png",
-                      "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Generating-a-network-request-waterfall-file-chromium/test-failed-1.png"
-                    }
-                  ],
-                  "errorLocation": {
-                    "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js",
-                    "column": 44,
-                    "line": 495
-                  }
+                  "startTime": "2024-09-25T08:06:02.999Z",
+                  "attachments": []
                 }
               ],
               "status": "unexpected"
@@ -732,7 +710,7 @@
               "tags": [],
               "tests": [
                 {
-                  "timeout": 180000,
+                  "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
                   "projectId": "chromium",
@@ -741,7 +719,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 17547,
+                      "duration": 15225,
                       "errors": [],
                       "stdout": [
                         {
@@ -753,7 +731,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T07:41:56.197Z",
+                      "startTime": "2024-09-25T08:01:12.175Z",
                       "attachments": []
                     }
                   ],
@@ -771,7 +749,7 @@
               "tags": [],
               "tests": [
                 {
-                  "timeout": 180000,
+                  "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
                   "projectId": "chromium",
@@ -780,7 +758,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 15069,
+                      "duration": 19668,
                       "errors": [],
                       "stdout": [
                         {
@@ -792,7 +770,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T07:42:13.752Z",
+                      "startTime": "2024-09-25T08:01:27.407Z",
                       "attachments": []
                     }
                   ],
@@ -818,7 +796,7 @@
               "tags": [],
               "tests": [
                 {
-                  "timeout": 180000,
+                  "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
                   "projectId": "chromium",
@@ -827,7 +805,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 11469,
+                      "duration": 12857,
                       "errors": [],
                       "stdout": [
                         {
@@ -839,7 +817,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T07:44:14.452Z",
+                      "startTime": "2024-09-25T08:03:35.536Z",
                       "attachments": []
                     }
                   ],
@@ -857,7 +835,7 @@
               "tags": [],
               "tests": [
                 {
-                  "timeout": 180000,
+                  "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
                   "projectId": "chromium",
@@ -866,7 +844,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 12765,
+                      "duration": 11894,
                       "errors": [],
                       "stdout": [
                         {
@@ -878,7 +856,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T07:44:25.926Z",
+                      "startTime": "2024-09-25T08:03:48.400Z",
                       "attachments": []
                     }
                   ],
@@ -900,11 +878,11 @@
           "specs": [
             {
               "title": "Clicking the responded QR code Id and verifying the same exists in the Visit Details table",
-              "ok": true,
+              "ok": false,
               "tags": [],
               "tests": [
                 {
-                  "timeout": 180000,
+                  "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
                   "projectId": "chromium",
@@ -912,24 +890,55 @@
                   "results": [
                     {
                       "workerIndex": 0,
-                      "status": "passed",
-                      "duration": 20317,
-                      "errors": [],
-                      "stdout": [
+                      "status": "timedOut",
+                      "duration": 77601,
+                      "error": {
+                        "message": "\u001b[31mTest timeout of 60000ms exceeded while running \"beforeEach\" hook.\u001b[39m",
+                        "stack": "\u001b[31mTest timeout of 60000ms exceeded while running \"beforeEach\" hook.\u001b[39m\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:400:8",
+                        "location": {
+                          "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js",
+                          "column": 8,
+                          "line": 400
+                        },
+                        "snippet": "\u001b[0m \u001b[90m 398 |\u001b[39m     config\u001b[33m.\u001b[39mdefaultExpectedVisitDetailsTableHeader\u001b[33m;\u001b[39m\n \u001b[90m 399 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 400 |\u001b[39m   test\u001b[33m.\u001b[39mbeforeEach(\u001b[36masync\u001b[39m ({ page }) \u001b[33m=>\u001b[39m {\n \u001b[90m     |\u001b[39m        \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 401 |\u001b[39m     \u001b[36mconst\u001b[39m extractedPath \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m extractZipFile(\n \u001b[90m 402 |\u001b[39m       filePathToSaveZipFile\u001b[33m,\u001b[39m\n \u001b[90m 403 |\u001b[39m       downloadDirectory\u001b[0m"
+                      },
+                      "errors": [
                         {
-                          "text": "Executing test - Clicking the responded QR code Id and verifying the same exists in the Visit Details table\n"
+                          "location": {
+                            "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js",
+                            "column": 8,
+                            "line": 400
+                          },
+                          "message": "\u001b[31mTest timeout of 60000ms exceeded while running \"beforeEach\" hook.\u001b[39m\n\n\u001b[0m \u001b[90m 398 |\u001b[39m     config\u001b[33m.\u001b[39mdefaultExpectedVisitDetailsTableHeader\u001b[33m;\u001b[39m\n \u001b[90m 399 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 400 |\u001b[39m   test\u001b[33m.\u001b[39mbeforeEach(\u001b[36masync\u001b[39m ({ page }) \u001b[33m=>\u001b[39m {\n \u001b[90m     |\u001b[39m        \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 401 |\u001b[39m     \u001b[36mconst\u001b[39m extractedPath \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m extractZipFile(\n \u001b[90m 402 |\u001b[39m       filePathToSaveZipFile\u001b[33m,\u001b[39m\n \u001b[90m 403 |\u001b[39m       downloadDirectory\u001b[0m\n\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:400:8"
                         },
                         {
-                          "text": "Test passed\n"
+                          "location": {
+                            "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js",
+                            "column": 14,
+                            "line": 268
+                          },
+                          "message": "Error: page.goto: Test timeout of 60000ms exceeded.\nCall log:\n  \u001b[2m- navigating to \"https://developer16.prsnl.ink/1ZL54yKS?verify=1758787304-cpYfJO6DR7UNXrxiY2e931VxxDutED%2BuZXW6zvXJZ%2Fw%3D\", waiting until \"load\"\u001b[22m\n\n\n   at ../modules/crawlerUtility.js:268\n\n\u001b[0m \u001b[90m 266 |\u001b[39m\n \u001b[90m 267 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m navigateToPage \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page\u001b[33m,\u001b[39m url) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 268 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoto(url)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 269 |\u001b[39m }\u001b[33m;\u001b[39m\n \u001b[90m 270 |\u001b[39m\n \u001b[90m 271 |\u001b[39m \u001b[36mconst\u001b[39m clickCampaignDashboardLink \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page) \u001b[33m=>\u001b[39m {\u001b[0m\n\n    at navigateToPage (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:268:14)\n    at visitTrackableUrl (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:291:9)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:408:28"
                         }
                       ],
+                      "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T07:44:38.696Z",
-                      "attachments": []
+                      "startTime": "2024-09-25T08:04:00.304Z",
+                      "attachments": [
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Campaign-Dashboa-b316d--in-the-Visit-Details-table-chromium/video.webm"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js",
+                        "column": 8,
+                        "line": 400
+                      }
                     }
                   ],
-                  "status": "expected"
+                  "status": "unexpected"
                 }
               ],
               "id": "bc1a1793634cd5c9baa5-86fbc37eb93964928538",
@@ -943,16 +952,16 @@
               "tags": [],
               "tests": [
                 {
-                  "timeout": 180000,
+                  "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
                   "projectId": "chromium",
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 0,
+                      "workerIndex": 1,
                       "status": "passed",
-                      "duration": 21862,
+                      "duration": 24209,
                       "errors": [],
                       "stdout": [
                         {
@@ -964,7 +973,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T07:44:59.020Z",
+                      "startTime": "2024-09-25T08:05:18.962Z",
                       "attachments": []
                     }
                   ],
@@ -986,51 +995,33 @@
           "specs": [
             {
               "title": "Clicking the responded campaign and click on the contact visit to verify the responses for different urls from the same browser",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
-                  "timeout": 180000,
+                  "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
                   "projectId": "chromium",
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 0,
-                      "status": "timedOut",
-                      "duration": 193642,
-                      "error": {
-                        "message": "\u001b[31mTest timeout of 180000ms exceeded.\u001b[39m",
-                        "stack": "\u001b[31mTest timeout of 180000ms exceeded.\u001b[39m"
-                      },
-                      "errors": [
+                      "workerIndex": 1,
+                      "status": "passed",
+                      "duration": 19579,
+                      "errors": [],
+                      "stdout": [
                         {
-                          "message": "\u001b[31mTest timeout of 180000ms exceeded.\u001b[39m"
-                        },
-                        {
-                          "location": {
-                            "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js",
-                            "column": 14,
-                            "line": 268
-                          },
-                          "message": "Error: page.goto: Test timeout of 180000ms exceeded.\nCall log:\n  \u001b[2m- navigating to \"https://developer16.prsnl.ink/Tpzo7gLn?verify=1758786147-bonplAWMztYwX%2B2TKAHuoSgspPE5soIeGIvgg%2B7se6k%3D\", waiting until \"load\"\u001b[22m\n\n\n   at ../modules/crawlerUtility.js:268\n\n\u001b[0m \u001b[90m 266 |\u001b[39m\n \u001b[90m 267 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m navigateToPage \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page\u001b[33m,\u001b[39m url) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 268 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoto(url)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 269 |\u001b[39m }\u001b[33m;\u001b[39m\n \u001b[90m 270 |\u001b[39m\n \u001b[90m 271 |\u001b[39m \u001b[36mconst\u001b[39m clickCampaignDashboardLink \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page) \u001b[33m=>\u001b[39m {\u001b[0m\n\n    at navigateToPage (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:268:14)\n    at visitTrackableUrl (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:291:9)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:475:28"
+                          "text": "Test passed\n"
                         }
                       ],
-                      "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T07:45:20.887Z",
-                      "attachments": [
-                        {
-                          "name": "video",
-                          "contentType": "video/webm",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Campaign-Dashboa-b12e4--urls-from-the-same-browser-chromium/video.webm"
-                        }
-                      ]
+                      "startTime": "2024-09-25T08:05:43.413Z",
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "bc1a1793634cd5c9baa5-18fe0f8f27c0ee7f20be",
@@ -1045,8 +1036,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-09-25T07:40:46.594Z",
-    "duration": 469544.59500000003,
+    "startTime": "2024-09-25T07:59:57.282Z",
+    "duration": 430887.835,
     "expected": 20,
     "skipped": 0,
     "unexpected": 2,
