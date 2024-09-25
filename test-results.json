@@ -118,7 +118,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 11855,
+                  "duration": 9828,
                   "errors": [],
                   "stdout": [
                     {
@@ -130,7 +130,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T05:58:45.525Z",
+                  "startTime": "2024-09-25T07:28:24.209Z",
                   "attachments": []
                 }
               ],
@@ -157,7 +157,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 18060,
+                  "duration": 15491,
                   "errors": [],
                   "stdout": [
                     {
@@ -169,7 +169,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T05:58:59.466Z",
+                  "startTime": "2024-09-25T07:28:34.276Z",
                   "attachments": []
                 }
               ],
@@ -196,7 +196,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 12972,
+                  "duration": 16018,
                   "errors": [],
                   "stdout": [
                     {
@@ -208,7 +208,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T05:59:17.533Z",
+                  "startTime": "2024-09-25T07:28:49.778Z",
                   "attachments": []
                 }
               ],
@@ -235,7 +235,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 10034,
+                  "duration": 8112,
                   "errors": [],
                   "stdout": [
                     {
@@ -247,7 +247,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T05:59:30.514Z",
+                  "startTime": "2024-09-25T07:29:05.806Z",
                   "attachments": []
                 }
               ],
@@ -274,7 +274,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 6864,
+                  "duration": 7566,
                   "errors": [],
                   "stdout": [
                     {
@@ -286,7 +286,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T05:59:40.555Z",
+                  "startTime": "2024-09-25T07:29:13.923Z",
                   "attachments": []
                 }
               ],
@@ -313,7 +313,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 10283,
+                  "duration": 8889,
                   "errors": [],
                   "stdout": [
                     {
@@ -325,7 +325,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T05:59:47.425Z",
+                  "startTime": "2024-09-25T07:29:21.493Z",
                   "attachments": []
                 }
               ],
@@ -352,7 +352,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 10665,
+                  "duration": 7002,
                   "errors": [],
                   "stdout": [
                     {
@@ -364,7 +364,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T05:59:57.723Z",
+                  "startTime": "2024-09-25T07:29:30.389Z",
                   "attachments": []
                 }
               ],
@@ -391,7 +391,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 21098,
+                  "duration": 18892,
                   "errors": [],
                   "stdout": [
                     {
@@ -403,7 +403,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T06:00:47.181Z",
+                  "startTime": "2024-09-25T07:30:12.594Z",
                   "attachments": []
                 }
               ],
@@ -430,7 +430,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 14324,
+                  "duration": 14387,
                   "errors": [],
                   "stdout": [
                     {
@@ -442,7 +442,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T06:01:08.284Z",
+                  "startTime": "2024-09-25T07:30:31.491Z",
                   "attachments": []
                 }
               ],
@@ -469,7 +469,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 17918,
+                  "duration": 15977,
                   "errors": [],
                   "stdout": [
                     {
@@ -481,7 +481,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T06:01:22.613Z",
+                  "startTime": "2024-09-25T07:30:45.885Z",
                   "attachments": []
                 }
               ],
@@ -508,7 +508,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 14769,
+                  "duration": 15125,
                   "errors": [],
                   "stdout": [
                     {
@@ -520,7 +520,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T06:01:40.536Z",
+                  "startTime": "2024-09-25T07:31:01.867Z",
                   "attachments": []
                 }
               ],
@@ -547,7 +547,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 20851,
+                  "duration": 17793,
                   "errors": [],
                   "stdout": [
                     {
@@ -559,7 +559,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T06:01:55.310Z",
+                  "startTime": "2024-09-25T07:31:16.998Z",
                   "attachments": []
                 }
               ],
@@ -586,7 +586,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 15713,
+                  "duration": 13569,
                   "errors": [],
                   "stdout": [
                     {
@@ -598,7 +598,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T06:02:16.166Z",
+                  "startTime": "2024-09-25T07:31:34.808Z",
                   "attachments": []
                 }
               ],
@@ -625,7 +625,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 16598,
+                  "duration": 13753,
                   "errors": [],
                   "stdout": [
                     {
@@ -640,7 +640,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T06:02:31.886Z",
+                  "startTime": "2024-09-25T07:31:48.383Z",
                   "attachments": []
                 }
               ],
@@ -667,7 +667,7 @@
                 {
                   "workerIndex": 1,
                   "status": "failed",
-                  "duration": 446,
+                  "duration": 459,
                   "error": {
                     "message": "TypeError: Cannot read properties of undefined (reading 'firstUser')",
                     "stack": "TypeError: Cannot read properties of undefined (reading 'firstUser')\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:495:44",
@@ -695,7 +695,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-09-25T06:11:49.217Z",
+                  "startTime": "2024-09-25T07:36:26.909Z",
                   "attachments": [
                     {
                       "name": "screenshot",
@@ -741,7 +741,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 21423,
+                      "duration": 18236,
                       "errors": [],
                       "stdout": [
                         {
@@ -753,7 +753,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T06:00:08.395Z",
+                      "startTime": "2024-09-25T07:29:37.397Z",
                       "attachments": []
                     }
                   ],
@@ -780,7 +780,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 17344,
+                      "duration": 16947,
                       "errors": [],
                       "stdout": [
                         {
@@ -792,7 +792,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T06:00:29.824Z",
+                      "startTime": "2024-09-25T07:29:55.640Z",
                       "attachments": []
                     }
                   ],
@@ -827,7 +827,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 10330,
+                      "duration": 11734,
                       "errors": [],
                       "stdout": [
                         {
@@ -839,7 +839,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T06:02:48.488Z",
+                      "startTime": "2024-09-25T07:32:02.143Z",
                       "attachments": []
                     }
                   ],
@@ -866,7 +866,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 12623,
+                      "duration": 13030,
                       "errors": [],
                       "stdout": [
                         {
@@ -878,7 +878,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T06:02:58.825Z",
+                      "startTime": "2024-09-25T07:32:13.893Z",
                       "attachments": []
                     }
                   ],
@@ -913,7 +913,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 161254,
+                      "duration": 20350,
                       "errors": [],
                       "stdout": [
                         {
@@ -925,7 +925,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T06:03:11.458Z",
+                      "startTime": "2024-09-25T07:32:26.929Z",
                       "attachments": []
                     }
                   ],
@@ -952,7 +952,7 @@
                     {
                       "workerIndex": 0,
                       "status": "passed",
-                      "duration": 161880,
+                      "duration": 24858,
                       "errors": [],
                       "stdout": [
                         {
@@ -964,7 +964,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T06:05:52.722Z",
+                      "startTime": "2024-09-25T07:32:47.285Z",
                       "attachments": []
                     }
                   ],
@@ -999,7 +999,7 @@
                     {
                       "workerIndex": 0,
                       "status": "timedOut",
-                      "duration": 193339,
+                      "duration": 193755,
                       "error": {
                         "message": "\u001b[31mTest timeout of 180000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 180000ms exceeded.\u001b[39m"
@@ -1014,13 +1014,13 @@
                             "column": 14,
                             "line": 268
                           },
-                          "message": "Error: page.goto: Test timeout of 180000ms exceeded.\nCall log:\n  \u001b[2m- navigating to \"https://developer16.prsnl.ink/oJisYBYF?verify=1758780045-%2Bn%2FzxanYPuZZGWfIhwO9Lmi12mcyDgh12ywnCKt9ai8%3D\", waiting until \"load\"\u001b[22m\n\n\n   at ../modules/crawlerUtility.js:268\n\n\u001b[0m \u001b[90m 266 |\u001b[39m\n \u001b[90m 267 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m navigateToPage \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page\u001b[33m,\u001b[39m url) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 268 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoto(url)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 269 |\u001b[39m }\u001b[33m;\u001b[39m\n \u001b[90m 270 |\u001b[39m\n \u001b[90m 271 |\u001b[39m \u001b[36mconst\u001b[39m clickCampaignDashboardLink \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page) \u001b[33m=>\u001b[39m {\u001b[0m\n\n    at navigateToPage (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:268:14)\n    at visitTrackableUrl (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:291:9)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:475:28"
+                          "message": "Error: page.goto: Test timeout of 180000ms exceeded.\nCall log:\n  \u001b[2m- navigating to \"https://developer16.prsnl.ink/vigophJp?verify=1758785410-3fqvnRx%2FXEPTC6gSHdC5Oy0UITRbrJ7Wi3SpJB9ztJg%3D\", waiting until \"load\"\u001b[22m\n\n\n   at ../modules/crawlerUtility.js:268\n\n\u001b[0m \u001b[90m 266 |\u001b[39m\n \u001b[90m 267 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m navigateToPage \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page\u001b[33m,\u001b[39m url) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 268 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgoto(url)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 269 |\u001b[39m }\u001b[33m;\u001b[39m\n \u001b[90m 270 |\u001b[39m\n \u001b[90m 271 |\u001b[39m \u001b[36mconst\u001b[39m clickCampaignDashboardLink \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page) \u001b[33m=>\u001b[39m {\u001b[0m\n\n    at navigateToPage (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:268:14)\n    at visitTrackableUrl (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:291:9)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:475:28"
                         }
                       ],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-09-25T06:08:34.611Z",
+                      "startTime": "2024-09-25T07:33:12.150Z",
                       "attachments": [
                         {
                           "name": "video",
@@ -1045,8 +1045,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-09-25T05:58:44.444Z",
-    "duration": 785368.191,
+    "startTime": "2024-09-25T07:28:23.124Z",
+    "duration": 484369.696,
     "expected": 20,
     "skipped": 0,
     "unexpected": 2,
