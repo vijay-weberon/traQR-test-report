@@ -118,7 +118,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 12189,
+                  "duration": 8823,
                   "errors": [],
                   "stdout": [
                     {
@@ -130,7 +130,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:00:36.946Z",
+                  "startTime": "2024-10-09T06:22:50.144Z",
                   "attachments": []
                 }
               ],
@@ -157,7 +157,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 11369,
+                  "duration": 12321,
                   "errors": [],
                   "stdout": [
                     {
@@ -169,7 +169,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:00:52.002Z",
+                  "startTime": "2024-10-09T06:22:59.180Z",
                   "attachments": []
                 }
               ],
@@ -196,7 +196,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 11697,
+                  "duration": 12278,
                   "errors": [],
                   "stdout": [
                     {
@@ -208,7 +208,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:01:03.379Z",
+                  "startTime": "2024-10-09T06:23:11.507Z",
                   "attachments": []
                 }
               ],
@@ -235,7 +235,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 5190,
+                  "duration": 5493,
                   "errors": [],
                   "stdout": [
                     {
@@ -247,7 +247,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:01:15.082Z",
+                  "startTime": "2024-10-09T06:23:23.793Z",
                   "attachments": []
                 }
               ],
@@ -274,7 +274,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 6112,
+                  "duration": 5631,
                   "errors": [],
                   "stdout": [
                     {
@@ -286,7 +286,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:01:20.279Z",
+                  "startTime": "2024-10-09T06:23:29.292Z",
                   "attachments": []
                 }
               ],
@@ -313,7 +313,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 5275,
+                  "duration": 5207,
                   "errors": [],
                   "stdout": [
                     {
@@ -325,7 +325,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:01:26.397Z",
+                  "startTime": "2024-10-09T06:23:34.929Z",
                   "attachments": []
                 }
               ],
@@ -352,7 +352,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 5964,
+                  "duration": 6583,
                   "errors": [],
                   "stdout": [
                     {
@@ -364,7 +364,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:01:31.678Z",
+                  "startTime": "2024-10-09T06:23:40.143Z",
                   "attachments": []
                 }
               ],
@@ -389,9 +389,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 15141,
+                  "duration": 12608,
                   "errors": [],
                   "stdout": [
                     {
@@ -403,7 +403,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:03:56.007Z",
+                  "startTime": "2024-10-09T06:24:17.486Z",
                   "attachments": []
                 }
               ],
@@ -428,9 +428,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 16084,
+                  "duration": 10280,
                   "errors": [],
                   "stdout": [
                     {
@@ -442,7 +442,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:04:11.409Z",
+                  "startTime": "2024-10-09T06:24:30.100Z",
                   "attachments": []
                 }
               ],
@@ -467,9 +467,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 12001,
+                  "duration": 13413,
                   "errors": [],
                   "stdout": [
                     {
@@ -481,7 +481,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:04:27.498Z",
+                  "startTime": "2024-10-09T06:24:40.384Z",
                   "attachments": []
                 }
               ],
@@ -506,9 +506,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 12121,
+                  "duration": 12948,
                   "errors": [],
                   "stdout": [
                     {
@@ -520,7 +520,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:04:39.505Z",
+                  "startTime": "2024-10-09T06:24:53.802Z",
                   "attachments": []
                 }
               ],
@@ -545,9 +545,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 11891,
+                  "duration": 11601,
                   "errors": [],
                   "stdout": [
                     {
@@ -559,7 +559,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:04:51.632Z",
+                  "startTime": "2024-10-09T06:25:06.756Z",
                   "attachments": []
                 }
               ],
@@ -584,9 +584,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 15953,
+                  "duration": 12162,
                   "errors": [],
                   "stdout": [
                     {
@@ -598,7 +598,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:05:03.530Z",
+                  "startTime": "2024-10-09T06:25:18.363Z",
                   "attachments": []
                 }
               ],
@@ -623,9 +623,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 10687,
+                  "duration": 10391,
                   "errors": [],
                   "stdout": [
                     {
@@ -640,7 +640,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:05:19.488Z",
+                  "startTime": "2024-10-09T06:25:30.533Z",
                   "attachments": []
                 }
               ],
@@ -654,7 +654,7 @@
         },
         {
           "title": "Generating a network request waterfall file",
-          "ok": false,
+          "ok": true,
           "tags": [],
           "tests": [
             {
@@ -665,52 +665,25 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 5,
-                  "status": "failed",
-                  "duration": 448,
-                  "error": {
-                    "message": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'",
-                    "stack": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'\n    at extractZipFile (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js:44:25)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:492:46",
-                    "location": {
-                      "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                      "column": 25,
-                      "line": 44
-                    },
-                    "snippet": "   at ../modules/fsUtility.js:44\n\n\u001b[0m \u001b[90m 42 |\u001b[39m\n \u001b[90m 43 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m extractZipFile \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (zipFilePath\u001b[33m,\u001b[39m extractionDirectory) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 44 |\u001b[39m   \u001b[36mconst\u001b[39m fileBuffer \u001b[33m=\u001b[39m fs\u001b[33m.\u001b[39mreadFileSync(zipFilePath)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 45 |\u001b[39m   \u001b[36mif\u001b[39m (fileBuffer\u001b[33m.\u001b[39mslice(\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m \u001b[35m2\u001b[39m)\u001b[33m.\u001b[39mtoString(\u001b[32m'hex'\u001b[39m) \u001b[33m===\u001b[39m \u001b[32m'504b'\u001b[39m) {\n \u001b[90m 46 |\u001b[39m     \u001b[36mconst\u001b[39m extractedPath \u001b[33m=\u001b[39m path\u001b[33m.\u001b[39mjoin(extractionDirectory\u001b[33m,\u001b[39m \u001b[32m'extracted'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 47 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mfs\u001b[33m.\u001b[39mexistsSync(extractedPath)) {\u001b[0m"
-                  },
-                  "errors": [
-                    {
-                      "location": {
-                        "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                        "column": 25,
-                        "line": 44
-                      },
-                      "message": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'\n\n   at ../modules/fsUtility.js:44\n\n\u001b[0m \u001b[90m 42 |\u001b[39m\n \u001b[90m 43 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m extractZipFile \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (zipFilePath\u001b[33m,\u001b[39m extractionDirectory) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 44 |\u001b[39m   \u001b[36mconst\u001b[39m fileBuffer \u001b[33m=\u001b[39m fs\u001b[33m.\u001b[39mreadFileSync(zipFilePath)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 45 |\u001b[39m   \u001b[36mif\u001b[39m (fileBuffer\u001b[33m.\u001b[39mslice(\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m \u001b[35m2\u001b[39m)\u001b[33m.\u001b[39mtoString(\u001b[32m'hex'\u001b[39m) \u001b[33m===\u001b[39m \u001b[32m'504b'\u001b[39m) {\n \u001b[90m 46 |\u001b[39m     \u001b[36mconst\u001b[39m extractedPath \u001b[33m=\u001b[39m path\u001b[33m.\u001b[39mjoin(extractionDirectory\u001b[33m,\u001b[39m \u001b[32m'extracted'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 47 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mfs\u001b[33m.\u001b[39mexistsSync(extractedPath)) {\u001b[0m\n\n    at extractZipFile (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js:44:25)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:492:46"
-                    }
-                  ],
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 3190,
+                  "errors": [],
                   "stdout": [
                     {
                       "text": "Executing test - Generating a network request waterfall file\n"
+                    },
+                    {
+                      "text": "Test passed\n"
                     }
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-09T06:05:53.708Z",
-                  "attachments": [
-                    {
-                      "name": "screenshot",
-                      "contentType": "image/png",
-                      "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Generating-a-network-request-waterfall-file-chromium/test-failed-1.png"
-                    }
-                  ],
-                  "errorLocation": {
-                    "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                    "column": 25,
-                    "line": 44
-                  }
+                  "startTime": "2024-10-09T06:26:56.573Z",
+                  "attachments": []
                 }
               ],
-              "status": "unexpected"
+              "status": "expected"
             }
           ],
           "id": "bc1a1793634cd5c9baa5-8a9116ae47936454c643",
@@ -728,7 +701,7 @@
           "specs": [
             {
               "title": "Selecting campaign from table and uploading Csv with all mandatory fields to verify the responded message",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -740,48 +713,24 @@
                   "results": [
                     {
                       "workerIndex": 0,
-                      "status": "timedOut",
-                      "duration": 67755,
-                      "error": {
-                        "message": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m",
-                        "stack": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m"
-                      },
-                      "errors": [
-                        {
-                          "message": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m"
-                        },
-                        {
-                          "location": {
-                            "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js",
-                            "column": 6,
-                            "line": 414
-                          },
-                          "message": "Error: locator.textContent: Test timeout of 60000ms exceeded.\nCall log:\n  \u001b[2m- waiting for locator('[data-testid=\"stNotificationContentSuccess\"] p')\u001b[22m\n\n\n   at ../modules/crawlerUtility.js:414\n\n\u001b[0m \u001b[90m 412 |\u001b[39m   \u001b[36mconst\u001b[39m textContent \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\n \u001b[90m 413 |\u001b[39m     \u001b[33m.\u001b[39mlocator(\u001b[32m'[data-testid=\"stNotificationContentSuccess\"] p'\u001b[39m)\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 414 |\u001b[39m     \u001b[33m.\u001b[39mtextContent()\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m      \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 415 |\u001b[39m   \u001b[36mreturn\u001b[39m textContent\u001b[33m;\u001b[39m\n \u001b[90m 416 |\u001b[39m }\u001b[33m;\u001b[39m\n \u001b[90m 417 |\u001b[39m\u001b[0m\n\n    at getApiResponseMsg (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:414:6)\n    at getSuccessMessage (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:128:32)\n    at getMessageFromUploadContact (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:119:21)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:256:28"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 13278,
+                      "errors": [],
                       "stdout": [
                         {
                           "text": "Executing test - Selecting campaign from dropdown and uploading Csv with all mandatory fields to verify the responded message\n"
+                        },
+                        {
+                          "text": "Test passed\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-09T06:01:37.649Z",
-                      "attachments": [
-                        {
-                          "name": "screenshot",
-                          "contentType": "image/png",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Selecting-campai-6a31e-erify-the-responded-message-chromium/test-failed-1.png"
-                        },
-                        {
-                          "name": "video",
-                          "contentType": "video/webm",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Selecting-campai-6a31e-erify-the-responded-message-chromium/video.webm"
-                        }
-                      ]
+                      "startTime": "2024-10-09T06:23:46.731Z",
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "bc1a1793634cd5c9baa5-7a7b6cf1dd6523a03ee6",
@@ -791,7 +740,7 @@
             },
             {
               "title": "Checking for clickAndDownloadFileAndQrCodes button and downloading the CSV and QR codes response file and verifying the file has downloaded successfully",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -802,49 +751,25 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 1,
-                      "status": "timedOut",
-                      "duration": 68078,
-                      "error": {
-                        "message": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m",
-                        "stack": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m"
-                      },
-                      "errors": [
-                        {
-                          "message": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m"
-                        },
-                        {
-                          "location": {
-                            "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js",
-                            "column": 50,
-                            "line": 276
-                          },
-                          "message": "Error: locator.textContent: Test timeout of 60000ms exceeded.\nCall log:\n  \u001b[2m- waiting for getByTestId('stDownloadButton').getByTestId('baseButton-secondary')\u001b[22m\n\n\n\u001b[0m \u001b[90m 274 |\u001b[39m       \u001b[33m.\u001b[39mgetByTestId(\u001b[32m'stDownloadButton'\u001b[39m)\n \u001b[90m 275 |\u001b[39m       \u001b[33m.\u001b[39mgetByTestId(\u001b[32m'baseButton-secondary'\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 276 |\u001b[39m     \u001b[36mconst\u001b[39m \u001b[33mDownloadBtnContent\u001b[39m \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m \u001b[33mDownloadBtn\u001b[39m\u001b[33m.\u001b[39mtextContent()\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                                                  \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 277 |\u001b[39m     expect(\n \u001b[90m 278 |\u001b[39m       \u001b[33mDownloadBtnContent\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 279 |\u001b[39m       \u001b[32m'Download button for responded CSV and QR codes is available'\u001b[39m\u001b[0m\n\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:276:50"
-                        }
-                      ],
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 17459,
+                      "errors": [],
                       "stdout": [
                         {
                           "text": "Executing test - Checking for clickAndDownloadFileAndQrCodes button and downloading the CSV and QR codes response file and verifying the file has downloaded successfully\n"
+                        },
+                        {
+                          "text": "Test passed\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-09T06:02:46.617Z",
-                      "attachments": [
-                        {
-                          "name": "screenshot",
-                          "contentType": "image/png",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Selecting-campai-1c467-has-downloaded-successfully-chromium/test-failed-1.png"
-                        },
-                        {
-                          "name": "video",
-                          "contentType": "video/webm",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Selecting-campai-1c467-has-downloaded-successfully-chromium/video.webm"
-                        }
-                      ]
+                      "startTime": "2024-10-09T06:24:00.016Z",
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "bc1a1793634cd5c9baa5-ec32a1e3016aa4c10ad7",
@@ -873,9 +798,9 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 2,
+                      "workerIndex": 0,
                       "status": "passed",
-                      "duration": 8929,
+                      "duration": 11103,
                       "errors": [],
                       "stdout": [
                         {
@@ -887,7 +812,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-09T06:05:30.181Z",
+                      "startTime": "2024-10-09T06:25:40.930Z",
                       "attachments": []
                     }
                   ],
@@ -912,9 +837,9 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 2,
+                      "workerIndex": 0,
                       "status": "passed",
-                      "duration": 10157,
+                      "duration": 11530,
                       "errors": [],
                       "stdout": [
                         {
@@ -926,7 +851,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-09T06:05:39.116Z",
+                      "startTime": "2024-10-09T06:25:52.040Z",
                       "attachments": []
                     }
                   ],
@@ -948,7 +873,7 @@
           "specs": [
             {
               "title": "Clicking the responded QR code Id and verifying the same exists in the Visit Details table",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -959,53 +884,25 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 2,
-                      "status": "failed",
-                      "duration": 263,
-                      "error": {
-                        "message": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'",
-                        "stack": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'\n    at extractZipFile (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js:44:25)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:398:47",
-                        "location": {
-                          "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                          "column": 25,
-                          "line": 44
-                        },
-                        "snippet": "   at ../modules/fsUtility.js:44\n\n\u001b[0m \u001b[90m 42 |\u001b[39m\n \u001b[90m 43 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m extractZipFile \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (zipFilePath\u001b[33m,\u001b[39m extractionDirectory) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 44 |\u001b[39m   \u001b[36mconst\u001b[39m fileBuffer \u001b[33m=\u001b[39m fs\u001b[33m.\u001b[39mreadFileSync(zipFilePath)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 45 |\u001b[39m   \u001b[36mif\u001b[39m (fileBuffer\u001b[33m.\u001b[39mslice(\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m \u001b[35m2\u001b[39m)\u001b[33m.\u001b[39mtoString(\u001b[32m'hex'\u001b[39m) \u001b[33m===\u001b[39m \u001b[32m'504b'\u001b[39m) {\n \u001b[90m 46 |\u001b[39m     \u001b[36mconst\u001b[39m extractedPath \u001b[33m=\u001b[39m path\u001b[33m.\u001b[39mjoin(extractionDirectory\u001b[33m,\u001b[39m \u001b[32m'extracted'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 47 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mfs\u001b[33m.\u001b[39mexistsSync(extractedPath)) {\u001b[0m"
-                      },
-                      "errors": [
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 17006,
+                      "errors": [],
+                      "stdout": [
                         {
-                          "location": {
-                            "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                            "column": 25,
-                            "line": 44
-                          },
-                          "message": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'\n\n   at ../modules/fsUtility.js:44\n\n\u001b[0m \u001b[90m 42 |\u001b[39m\n \u001b[90m 43 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m extractZipFile \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (zipFilePath\u001b[33m,\u001b[39m extractionDirectory) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 44 |\u001b[39m   \u001b[36mconst\u001b[39m fileBuffer \u001b[33m=\u001b[39m fs\u001b[33m.\u001b[39mreadFileSync(zipFilePath)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 45 |\u001b[39m   \u001b[36mif\u001b[39m (fileBuffer\u001b[33m.\u001b[39mslice(\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m \u001b[35m2\u001b[39m)\u001b[33m.\u001b[39mtoString(\u001b[32m'hex'\u001b[39m) \u001b[33m===\u001b[39m \u001b[32m'504b'\u001b[39m) {\n \u001b[90m 46 |\u001b[39m     \u001b[36mconst\u001b[39m extractedPath \u001b[33m=\u001b[39m path\u001b[33m.\u001b[39mjoin(extractionDirectory\u001b[33m,\u001b[39m \u001b[32m'extracted'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 47 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mfs\u001b[33m.\u001b[39mexistsSync(extractedPath)) {\u001b[0m\n\n    at extractZipFile (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js:44:25)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:398:47"
+                          "text": "Executing test - Clicking the responded QR code Id and verifying the same exists in the Visit Details table\n"
+                        },
+                        {
+                          "text": "Test passed\n"
                         }
                       ],
-                      "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-09T06:05:49.280Z",
-                      "attachments": [
-                        {
-                          "name": "screenshot",
-                          "contentType": "image/png",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Campaign-Dashboa-b316d--in-the-Visit-Details-table-chromium/test-failed-1.png"
-                        },
-                        {
-                          "name": "video",
-                          "contentType": "video/webm",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Campaign-Dashboa-b316d--in-the-Visit-Details-table-chromium/video.webm"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                        "column": 25,
-                        "line": 44
-                      }
+                      "startTime": "2024-10-09T06:26:03.576Z",
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "bc1a1793634cd5c9baa5-86fbc37eb93964928538",
@@ -1015,7 +912,7 @@
             },
             {
               "title": "Clicking the responded QR code Id and verifying all tables are visible on screen by checking the table names",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -1026,53 +923,25 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 3,
-                      "status": "failed",
-                      "duration": 340,
-                      "error": {
-                        "message": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'",
-                        "stack": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'\n    at extractZipFile (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js:44:25)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:398:47",
-                        "location": {
-                          "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                          "column": 25,
-                          "line": 44
-                        },
-                        "snippet": "   at ../modules/fsUtility.js:44\n\n\u001b[0m \u001b[90m 42 |\u001b[39m\n \u001b[90m 43 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m extractZipFile \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (zipFilePath\u001b[33m,\u001b[39m extractionDirectory) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 44 |\u001b[39m   \u001b[36mconst\u001b[39m fileBuffer \u001b[33m=\u001b[39m fs\u001b[33m.\u001b[39mreadFileSync(zipFilePath)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 45 |\u001b[39m   \u001b[36mif\u001b[39m (fileBuffer\u001b[33m.\u001b[39mslice(\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m \u001b[35m2\u001b[39m)\u001b[33m.\u001b[39mtoString(\u001b[32m'hex'\u001b[39m) \u001b[33m===\u001b[39m \u001b[32m'504b'\u001b[39m) {\n \u001b[90m 46 |\u001b[39m     \u001b[36mconst\u001b[39m extractedPath \u001b[33m=\u001b[39m path\u001b[33m.\u001b[39mjoin(extractionDirectory\u001b[33m,\u001b[39m \u001b[32m'extracted'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 47 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mfs\u001b[33m.\u001b[39mexistsSync(extractedPath)) {\u001b[0m"
-                      },
-                      "errors": [
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 19061,
+                      "errors": [],
+                      "stdout": [
                         {
-                          "location": {
-                            "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                            "column": 25,
-                            "line": 44
-                          },
-                          "message": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'\n\n   at ../modules/fsUtility.js:44\n\n\u001b[0m \u001b[90m 42 |\u001b[39m\n \u001b[90m 43 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m extractZipFile \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (zipFilePath\u001b[33m,\u001b[39m extractionDirectory) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 44 |\u001b[39m   \u001b[36mconst\u001b[39m fileBuffer \u001b[33m=\u001b[39m fs\u001b[33m.\u001b[39mreadFileSync(zipFilePath)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 45 |\u001b[39m   \u001b[36mif\u001b[39m (fileBuffer\u001b[33m.\u001b[39mslice(\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m \u001b[35m2\u001b[39m)\u001b[33m.\u001b[39mtoString(\u001b[32m'hex'\u001b[39m) \u001b[33m===\u001b[39m \u001b[32m'504b'\u001b[39m) {\n \u001b[90m 46 |\u001b[39m     \u001b[36mconst\u001b[39m extractedPath \u001b[33m=\u001b[39m path\u001b[33m.\u001b[39mjoin(extractionDirectory\u001b[33m,\u001b[39m \u001b[32m'extracted'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 47 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mfs\u001b[33m.\u001b[39mexistsSync(extractedPath)) {\u001b[0m\n\n    at extractZipFile (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js:44:25)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:398:47"
+                          "text": "Executing test - Clicking the responded QR code Id and verifying all tables are visible on screen by checking the table names\n"
+                        },
+                        {
+                          "text": "Test passed\n"
                         }
                       ],
-                      "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-09T06:05:50.581Z",
-                      "attachments": [
-                        {
-                          "name": "screenshot",
-                          "contentType": "image/png",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Campaign-Dashboa-7587c-by-checking-the-table-names-chromium/test-failed-1.png"
-                        },
-                        {
-                          "name": "video",
-                          "contentType": "video/webm",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Campaign-Dashboa-7587c-by-checking-the-table-names-chromium/video.webm"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                        "column": 25,
-                        "line": 44
-                      }
+                      "startTime": "2024-10-09T06:26:20.589Z",
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "bc1a1793634cd5c9baa5-dcb50abf67abdd49a4d9",
@@ -1090,7 +959,7 @@
           "specs": [
             {
               "title": "Clicking the responded campaign and click on the contact visit to verify the responses for different urls from the same browser",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -1101,53 +970,22 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 4,
-                      "status": "failed",
-                      "duration": 327,
-                      "error": {
-                        "message": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'",
-                        "stack": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'\n    at extractZipFile (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js:44:25)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:462:47",
-                        "location": {
-                          "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                          "column": 25,
-                          "line": 44
-                        },
-                        "snippet": "   at ../modules/fsUtility.js:44\n\n\u001b[0m \u001b[90m 42 |\u001b[39m\n \u001b[90m 43 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m extractZipFile \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (zipFilePath\u001b[33m,\u001b[39m extractionDirectory) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 44 |\u001b[39m   \u001b[36mconst\u001b[39m fileBuffer \u001b[33m=\u001b[39m fs\u001b[33m.\u001b[39mreadFileSync(zipFilePath)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 45 |\u001b[39m   \u001b[36mif\u001b[39m (fileBuffer\u001b[33m.\u001b[39mslice(\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m \u001b[35m2\u001b[39m)\u001b[33m.\u001b[39mtoString(\u001b[32m'hex'\u001b[39m) \u001b[33m===\u001b[39m \u001b[32m'504b'\u001b[39m) {\n \u001b[90m 46 |\u001b[39m     \u001b[36mconst\u001b[39m extractedPath \u001b[33m=\u001b[39m path\u001b[33m.\u001b[39mjoin(extractionDirectory\u001b[33m,\u001b[39m \u001b[32m'extracted'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 47 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mfs\u001b[33m.\u001b[39mexistsSync(extractedPath)) {\u001b[0m"
-                      },
-                      "errors": [
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 16909,
+                      "errors": [],
+                      "stdout": [
                         {
-                          "location": {
-                            "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                            "column": 25,
-                            "line": 44
-                          },
-                          "message": "Error: ENOENT: no such file or directory, open '/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/downloads/downloadedFile.zip'\n\n   at ../modules/fsUtility.js:44\n\n\u001b[0m \u001b[90m 42 |\u001b[39m\n \u001b[90m 43 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m extractZipFile \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (zipFilePath\u001b[33m,\u001b[39m extractionDirectory) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 44 |\u001b[39m   \u001b[36mconst\u001b[39m fileBuffer \u001b[33m=\u001b[39m fs\u001b[33m.\u001b[39mreadFileSync(zipFilePath)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 45 |\u001b[39m   \u001b[36mif\u001b[39m (fileBuffer\u001b[33m.\u001b[39mslice(\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m \u001b[35m2\u001b[39m)\u001b[33m.\u001b[39mtoString(\u001b[32m'hex'\u001b[39m) \u001b[33m===\u001b[39m \u001b[32m'504b'\u001b[39m) {\n \u001b[90m 46 |\u001b[39m     \u001b[36mconst\u001b[39m extractedPath \u001b[33m=\u001b[39m path\u001b[33m.\u001b[39mjoin(extractionDirectory\u001b[33m,\u001b[39m \u001b[32m'extracted'\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 47 |\u001b[39m     \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mfs\u001b[33m.\u001b[39mexistsSync(extractedPath)) {\u001b[0m\n\n    at extractZipFile (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js:44:25)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:462:47"
+                          "text": "Test passed\n"
                         }
                       ],
-                      "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-09T06:05:52.098Z",
-                      "attachments": [
-                        {
-                          "name": "screenshot",
-                          "contentType": "image/png",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Campaign-Dashboa-b12e4--urls-from-the-same-browser-chromium/test-failed-1.png"
-                        },
-                        {
-                          "name": "video",
-                          "contentType": "video/webm",
-                          "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Campaign-Dashboa-b12e4--urls-from-the-same-browser-chromium/video.webm"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/fsUtility.js",
-                        "column": 25,
-                        "line": 44
-                      }
+                      "startTime": "2024-10-09T06:26:39.656Z",
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "bc1a1793634cd5c9baa5-18fe0f8f27c0ee7f20be",
@@ -1162,11 +1000,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-10-09T06:00:35.517Z",
-    "duration": 318767.806,
-    "expected": 16,
+    "startTime": "2024-10-09T06:22:49.128Z",
+    "duration": 250749.66199999998,
+    "expected": 22,
     "skipped": 0,
-    "unexpected": 6,
+    "unexpected": 0,
     "flaky": 0
   }
 }
