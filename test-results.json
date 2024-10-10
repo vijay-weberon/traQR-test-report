@@ -64,60 +64,77 @@
       "specs": [
         {
           "title": "Checking for the Frontend and Backend version of the traQR application",
-          "ok": false,
+          "ok": true,
           "tags": [],
           "tests": [
             {
               "timeout": 60000,
-              "annotations": [],
+              "annotations": [
+                {
+                  "type": "Type",
+                  "description": "Frontend"
+                },
+                {
+                  "type": "Branch",
+                  "description": "https://github.com/weberon/traqr/tree/Developer15"
+                },
+                {
+                  "type": "Commit",
+                  "description": "https://github.com/weberon/traqr/tree/9ce1247"
+                },
+                {
+                  "type": "Timestamp",
+                  "description": "2024-10-09 12:13:15"
+                },
+                {
+                  "type": "Host",
+                  "description": "developer15-traqr.reachpersona.com"
+                },
+                {
+                  "type": "Type",
+                  "description": "Backend"
+                },
+                {
+                  "type": "Branch",
+                  "description": "Developer15"
+                },
+                {
+                  "type": "Host",
+                  "description": "developer15-linqr.reachpersona.com"
+                },
+                {
+                  "type": "commit",
+                  "description": "https://github.com/weberon/trackable-mailer/tree/63d7009"
+                },
+                {
+                  "type": "Timestamp",
+                  "description": "2024-09-30T06:03:07"
+                }
+              ],
               "expectedStatus": "passed",
               "projectId": "chromium",
               "projectName": "chromium",
               "results": [
                 {
                   "workerIndex": 0,
-                  "status": "timedOut",
-                  "duration": 68492,
-                  "error": {
-                    "message": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m",
-                    "stack": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m"
-                  },
-                  "errors": [
-                    {
-                      "message": "\u001b[31mTest timeout of 60000ms exceeded.\u001b[39m"
-                    },
-                    {
-                      "location": {
-                        "file": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js",
-                        "column": 56,
-                        "line": 437
-                      },
-                      "message": "Error: locator.click: Test timeout of 60000ms exceeded.\nCall log:\n  \u001b[2m- waiting for getByText('Commit info', { exact: true })\u001b[22m\n\n\n   at ../modules/crawlerUtility.js:437\n\n\u001b[0m \u001b[90m 435 |\u001b[39m\n \u001b[90m 436 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m clickOnCommitInfoTitle \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 437 |\u001b[39m   \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mgetByText(\u001b[32m'Commit info'\u001b[39m\u001b[33m,\u001b[39m { exact\u001b[33m:\u001b[39m \u001b[36mtrue\u001b[39m })\u001b[33m.\u001b[39mclick()\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                                                        \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 438 |\u001b[39m }\u001b[33m;\u001b[39m\n \u001b[90m 439 |\u001b[39m\n \u001b[90m 440 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m clickUploadButton \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (page) \u001b[33m=>\u001b[39m {\u001b[0m\n\n    at clickOnCommitInfoTitle (/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/modules/crawlerUtility.js:437:56)\n    at /var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/tests/traQRTest.spec.js:86:31"
-                    }
-                  ],
+                  "status": "passed",
+                  "duration": 8931,
+                  "errors": [],
                   "stdout": [
                     {
                       "text": "Executing Test - Checking for the Frontend and Backend version of the traQR application\n"
+                    },
+                    {
+                      "text": "Test passed\n"
                     }
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:33:08.732Z",
-                  "attachments": [
-                    {
-                      "name": "screenshot",
-                      "contentType": "image/png",
-                      "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Checking-for-the-2cfc8-on-of-the-traQR-application-chromium/test-failed-1.png"
-                    },
-                    {
-                      "name": "video",
-                      "contentType": "video/webm",
-                      "path": "/var/jenkins_home/workspace/Reachppersona/Trackable-mailer-automated-testing-playwright/traqr-test/test-results/traQRTest-Checking-for-the-2cfc8-on-of-the-traQR-application-chromium/video.webm"
-                    }
-                  ]
+                  "startTime": "2024-10-10T10:45:11.637Z",
+                  "attachments": []
                 }
               ],
-              "status": "unexpected"
+              "status": "expected"
             }
           ],
           "id": "bc1a1793634cd5c9baa5-ea1b9fac05218f965c7a",
@@ -138,9 +155,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 11088,
+                  "duration": 11720,
                   "errors": [],
                   "stdout": [
                     {
@@ -152,7 +169,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:34:18.467Z",
+                  "startTime": "2024-10-10T10:45:20.792Z",
                   "attachments": []
                 }
               ],
@@ -161,7 +178,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-6162ad306b80a2602324",
           "file": "traQRTest.spec.js",
-          "line": 154,
+          "line": 151,
           "column": 5
         },
         {
@@ -177,9 +194,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 10778,
+                  "duration": 15502,
                   "errors": [],
                   "stdout": [
                     {
@@ -191,7 +208,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:34:29.789Z",
+                  "startTime": "2024-10-10T10:45:32.518Z",
                   "attachments": []
                 }
               ],
@@ -200,7 +217,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-105b22d1bed0172bca43",
           "file": "traQRTest.spec.js",
-          "line": 176,
+          "line": 173,
           "column": 5
         },
         {
@@ -216,9 +233,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 5507,
+                  "duration": 5233,
                   "errors": [],
                   "stdout": [
                     {
@@ -230,7 +247,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:34:40.575Z",
+                  "startTime": "2024-10-10T10:45:48.025Z",
                   "attachments": []
                 }
               ],
@@ -239,7 +256,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-56bb2945dea008cbc41c",
           "file": "traQRTest.spec.js",
-          "line": 197,
+          "line": 194,
           "column": 7
         },
         {
@@ -255,9 +272,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 5653,
+                  "duration": 5887,
                   "errors": [],
                   "stdout": [
                     {
@@ -269,7 +286,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:34:46.090Z",
+                  "startTime": "2024-10-10T10:45:53.264Z",
                   "attachments": []
                 }
               ],
@@ -278,7 +295,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-1914cf4cb050b9d85416",
           "file": "traQRTest.spec.js",
-          "line": 197,
+          "line": 194,
           "column": 7
         },
         {
@@ -294,9 +311,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 5135,
+                  "duration": 5828,
                   "errors": [],
                   "stdout": [
                     {
@@ -308,7 +325,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:34:51.747Z",
+                  "startTime": "2024-10-10T10:45:59.157Z",
                   "attachments": []
                 }
               ],
@@ -317,7 +334,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-b78d618a15bc5197aa84",
           "file": "traQRTest.spec.js",
-          "line": 197,
+          "line": 194,
           "column": 7
         },
         {
@@ -333,9 +350,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 7579,
+                  "duration": 5436,
                   "errors": [],
                   "stdout": [
                     {
@@ -347,7 +364,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:34:56.888Z",
+                  "startTime": "2024-10-10T10:46:04.990Z",
                   "attachments": []
                 }
               ],
@@ -356,7 +373,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-0847ba4ab41217fcd817",
           "file": "traQRTest.spec.js",
-          "line": 219,
+          "line": 216,
           "column": 5
         },
         {
@@ -372,9 +389,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 13123,
+                  "duration": 12737,
                   "errors": [],
                   "stdout": [
                     {
@@ -386,7 +403,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:35:34.872Z",
+                  "startTime": "2024-10-10T10:46:34.925Z",
                   "attachments": []
                 }
               ],
@@ -395,7 +412,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-fa1fd7d7181691d684a8",
           "file": "traQRTest.spec.js",
-          "line": 292,
+          "line": 289,
           "column": 7
         },
         {
@@ -411,9 +428,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 14168,
+                  "duration": 11914,
                   "errors": [],
                   "stdout": [
                     {
@@ -425,7 +442,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:35:48.002Z",
+                  "startTime": "2024-10-10T10:46:47.667Z",
                   "attachments": []
                 }
               ],
@@ -434,7 +451,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-40e23a5093bd32013266",
           "file": "traQRTest.spec.js",
-          "line": 292,
+          "line": 289,
           "column": 7
         },
         {
@@ -450,9 +467,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 12810,
+                  "duration": 12021,
                   "errors": [],
                   "stdout": [
                     {
@@ -464,7 +481,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:36:02.175Z",
+                  "startTime": "2024-10-10T10:46:59.589Z",
                   "attachments": []
                 }
               ],
@@ -473,7 +490,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-f68d516e71294bb93be7",
           "file": "traQRTest.spec.js",
-          "line": 292,
+          "line": 289,
           "column": 7
         },
         {
@@ -489,9 +506,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 15394,
+                  "duration": 14924,
                   "errors": [],
                   "stdout": [
                     {
@@ -503,7 +520,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:36:14.989Z",
+                  "startTime": "2024-10-10T10:47:11.615Z",
                   "attachments": []
                 }
               ],
@@ -512,7 +529,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-5c5d1a887dab0f644cdd",
           "file": "traQRTest.spec.js",
-          "line": 292,
+          "line": 289,
           "column": 7
         },
         {
@@ -528,9 +545,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 11930,
+                  "duration": 10872,
                   "errors": [],
                   "stdout": [
                     {
@@ -542,7 +559,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:36:30.390Z",
+                  "startTime": "2024-10-10T10:47:26.545Z",
                   "attachments": []
                 }
               ],
@@ -551,7 +568,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-7cbd40f8b4539a6b941c",
           "file": "traQRTest.spec.js",
-          "line": 292,
+          "line": 289,
           "column": 7
         },
         {
@@ -567,9 +584,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 11223,
+                  "duration": 17923,
                   "errors": [],
                   "stdout": [
                     {
@@ -581,7 +598,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:36:42.327Z",
+                  "startTime": "2024-10-10T10:47:37.422Z",
                   "attachments": []
                 }
               ],
@@ -590,7 +607,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-0553ff4fd2972532c3de",
           "file": "traQRTest.spec.js",
-          "line": 292,
+          "line": 289,
           "column": 7
         },
         {
@@ -606,9 +623,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 10868,
+                  "duration": 9555,
                   "errors": [],
                   "stdout": [
                     {
@@ -623,7 +640,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:36:53.556Z",
+                  "startTime": "2024-10-10T10:47:55.349Z",
                   "attachments": []
                 }
               ],
@@ -632,7 +649,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-244c18b1ecd24be3e8cb",
           "file": "traQRTest.spec.js",
-          "line": 319,
+          "line": 316,
           "column": 5
         },
         {
@@ -648,9 +665,9 @@
               "projectName": "chromium",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 0,
                   "status": "passed",
-                  "duration": 3494,
+                  "duration": 3416,
                   "errors": [],
                   "stdout": [
                     {
@@ -662,7 +679,7 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-10T10:38:17.375Z",
+                  "startTime": "2024-10-10T10:49:18.210Z",
                   "attachments": []
                 }
               ],
@@ -671,7 +688,7 @@
           ],
           "id": "bc1a1793634cd5c9baa5-8a9116ae47936454c643",
           "file": "traQRTest.spec.js",
-          "line": 487,
+          "line": 484,
           "column": 5
         }
       ],
@@ -679,7 +696,7 @@
         {
           "title": "Selecting campaign from table and uploading CSV with all mandatory fields to verify the responded message and download the CSV",
           "file": "traQRTest.spec.js",
-          "line": 238,
+          "line": 235,
           "column": 6,
           "specs": [
             {
@@ -695,9 +712,9 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "status": "passed",
-                      "duration": 13739,
+                      "duration": 11314,
                       "errors": [],
                       "stdout": [
                         {
@@ -709,7 +726,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-10T10:35:04.473Z",
+                      "startTime": "2024-10-10T10:46:10.435Z",
                       "attachments": []
                     }
                   ],
@@ -718,7 +735,7 @@
               ],
               "id": "bc1a1793634cd5c9baa5-7a7b6cf1dd6523a03ee6",
               "file": "traQRTest.spec.js",
-              "line": 253,
+              "line": 250,
               "column": 7
             },
             {
@@ -734,9 +751,9 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "status": "passed",
-                      "duration": 16644,
+                      "duration": 13160,
                       "errors": [],
                       "stdout": [
                         {
@@ -748,7 +765,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-10T10:35:18.219Z",
+                      "startTime": "2024-10-10T10:46:21.758Z",
                       "attachments": []
                     }
                   ],
@@ -757,7 +774,7 @@
               ],
               "id": "bc1a1793634cd5c9baa5-ec32a1e3016aa4c10ad7",
               "file": "traQRTest.spec.js",
-              "line": 270,
+              "line": 267,
               "column": 7
             }
           ]
@@ -765,7 +782,7 @@
         {
           "title": "Campaign Dashboard Tests for campaigns which have no responses",
           "file": "traQRTest.spec.js",
-          "line": 343,
+          "line": 340,
           "column": 6,
           "specs": [
             {
@@ -781,9 +798,9 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "status": "passed",
-                      "duration": 9472,
+                      "duration": 8704,
                       "errors": [],
                       "stdout": [
                         {
@@ -795,7 +812,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-10T10:37:04.428Z",
+                      "startTime": "2024-10-10T10:48:04.908Z",
                       "attachments": []
                     }
                   ],
@@ -804,7 +821,7 @@
               ],
               "id": "bc1a1793634cd5c9baa5-f82e56d30d69f58b0763",
               "file": "traQRTest.spec.js",
-              "line": 355,
+              "line": 352,
               "column": 7
             },
             {
@@ -820,9 +837,9 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "status": "passed",
-                      "duration": 8239,
+                      "duration": 9639,
                       "errors": [],
                       "stdout": [
                         {
@@ -834,7 +851,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-10T10:37:13.906Z",
+                      "startTime": "2024-10-10T10:48:13.617Z",
                       "attachments": []
                     }
                   ],
@@ -843,7 +860,7 @@
               ],
               "id": "bc1a1793634cd5c9baa5-d316857f0e23fdcae50d",
               "file": "traQRTest.spec.js",
-              "line": 373,
+              "line": 370,
               "column": 7
             }
           ]
@@ -851,7 +868,7 @@
         {
           "title": "Campaign Dashboard Tests for campaigns which have responses",
           "file": "traQRTest.spec.js",
-          "line": 388,
+          "line": 385,
           "column": 6,
           "specs": [
             {
@@ -867,9 +884,9 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "status": "passed",
-                      "duration": 17101,
+                      "duration": 16878,
                       "errors": [],
                       "stdout": [
                         {
@@ -881,7 +898,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-10T10:37:22.151Z",
+                      "startTime": "2024-10-10T10:48:23.262Z",
                       "attachments": []
                     }
                   ],
@@ -890,7 +907,7 @@
               ],
               "id": "bc1a1793634cd5c9baa5-86fbc37eb93964928538",
               "file": "traQRTest.spec.js",
-              "line": 413,
+              "line": 410,
               "column": 7
             },
             {
@@ -906,9 +923,9 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "status": "passed",
-                      "duration": 17997,
+                      "duration": 18191,
                       "errors": [],
                       "stdout": [
                         {
@@ -920,7 +937,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-10T10:37:39.261Z",
+                      "startTime": "2024-10-10T10:48:40.148Z",
                       "attachments": []
                     }
                   ],
@@ -929,7 +946,7 @@
               ],
               "id": "bc1a1793634cd5c9baa5-dcb50abf67abdd49a4d9",
               "file": "traQRTest.spec.js",
-              "line": 429,
+              "line": 426,
               "column": 7
             }
           ]
@@ -937,7 +954,7 @@
         {
           "title": "Campaign Dashboard Tests for responses for different urls from the same end user browser",
           "file": "traQRTest.spec.js",
-          "line": 461,
+          "line": 458,
           "column": 6,
           "specs": [
             {
@@ -953,9 +970,9 @@
                   "projectName": "chromium",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "status": "passed",
-                      "duration": 20109,
+                      "duration": 19855,
                       "errors": [],
                       "stdout": [
                         {
@@ -964,7 +981,7 @@
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2024-10-10T10:37:57.263Z",
+                      "startTime": "2024-10-10T10:48:58.347Z",
                       "attachments": []
                     }
                   ],
@@ -973,7 +990,7 @@
               ],
               "id": "bc1a1793634cd5c9baa5-18fe0f8f27c0ee7f20be",
               "file": "traQRTest.spec.js",
-              "line": 462,
+              "line": 459,
               "column": 7
             }
           ]
@@ -983,11 +1000,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-10-10T10:33:07.643Z",
-    "duration": 313356.485,
-    "expected": 21,
+    "startTime": "2024-10-10T10:45:10.249Z",
+    "duration": 251492.26200000002,
+    "expected": 22,
     "skipped": 0,
-    "unexpected": 1,
+    "unexpected": 0,
     "flaky": 0
   }
 }
